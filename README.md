@@ -1,6 +1,8 @@
-# qpay
+# qpay-curl
 
-QPay V2 API SDK for Rust. Async client with automatic token management, invoice creation, payment operations, and ebarimt (electronic tax receipt) support.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+QPay V2 API cURL examples. Ready-to-use shell scripts for authentication, invoice creation, payment operations, and ebarimt (electronic tax receipt) support.
 
 ## Installation
 
